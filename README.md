@@ -10,7 +10,7 @@
 <p align="left">Olá! Eu sou Miguel!</p>
 
 
-<h1 align="left">🚀 Desenvolvedor em formação<br><br>🎯 Objetivo<br><br>Me tornar um desenvolvedor completo, com base sólida em lógica e capacidade de construir aplicações web modernas e bem estruturadas.</h1>
+<h1 align="left">🚀 Desenvolvedor em construção<br><br>🎯 Objetivo<br><br>Me tornar um desenvolvedor completo, com base sólida em lógica e capacidade de construir aplicações web modernas e bem estruturadas.</h1>
 
 ###
 
