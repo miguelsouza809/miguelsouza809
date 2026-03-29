@@ -1,11 +1,12 @@
 <div align="center">
-<img height="" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk5eG00MnFuM2RucHZwemE5dTY3bHBvOHpnZWhnM2dkOTVub25iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
-</div>
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/miguel-s-b963b13a7/?skipRedirect=true" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-s-b963b13a7/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/GFWKkGgA" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/miguelsouzarr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
 
@@ -16,6 +17,12 @@
 ###
 
 <p align="left">Olá! Me chamo Miguel e atualmente estou cursando Sistemas de Informação na Universidade Una Betim.<br><br>💻 Desenvolvedor em formação.<br><br>> Atualmente focado em:<br>- Lógica de Programação;<br>- Desenvolvimento ( HTML, CSS, JavaScript, Swift )<br>- Algoritmos e Técnicas de Programação (ATP)<br><br>Atualmente foco em me tornar um desenvolvedor completo, com base sólida em lógica e capacidade de construir aplicações web modernas e bem estruturadas.</p>
+
+###
+
+<div align="center">
+  <img height="222" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk5eG00MnFuM2RucHZwemE5dTY3bHBvOHpnZWhnM2dkOTVub25iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
+</div>
 
 ###
 
