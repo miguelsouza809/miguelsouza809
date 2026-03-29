@@ -1,8 +1,7 @@
 <div align="center">
-  <img height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk5eG00MnFuM2RucHZwemE5dTY3bHBvOHpnZWhnM2dkOTVub25iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
-</div>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk5eG00MnFuM2RucHZwemE5dTY3bHBvOHpnZWhnM2dkOTVub25iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gi" width="100%" style="display:block"/>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/miguel-s-b963b13a7/?skipRedirect=true" target="_blank">
