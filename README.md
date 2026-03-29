@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk5eG00MnFuM2RucHZwemE5dTY3bHBvOHpnZWhnM2dkOTVub25iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
+  <img height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk5eG00MnFuM2RucHZwemE5dTY3bHBvOHpnZWhnM2dkOTVub25iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<h5 align="left">Olá! Me chamo Miguel e atualmente estou cursando Sistemas de Informação na Universidade Una Betim.<br><br>💻 Desenvolvedor em formação.<br><br>> Atualmente focado em:<br>- Lógica de Programação;<br>- Desenvolvimento ( HTML, CSS, JavaScript, Swift )<br>- Algoritmos e Técnicas de Programação (ATP)<br><br>Atualmente foco em me tornar um desenvolvedor completo, com base sólida em lógica e capacidade de construir aplicações web modernas e bem estruturadas.</h5>
+<p align="left">Olá! Me chamo Miguel e atualmente estou cursando Sistemas de Informação na Universidade Una Betim.<br><br>💻 Desenvolvedor em formação.<br><br>> Atualmente focado em:<br>- Lógica de Programação;<br>- Desenvolvimento ( HTML, CSS, JavaScript, Swift )<br>- Algoritmos e Técnicas de Programação (ATP)<br><br>Atualmente foco em me tornar um desenvolvedor completo, com base sólida em lógica e capacidade de construir aplicações web modernas e bem estruturadas.</p>
 
 ###
 
