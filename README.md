@@ -1,20 +1,16 @@
-<h1 align="left">👩‍💻 Miguel Afonso Marques de Souza</h1>
+<h2 align="left">👩‍💻 Miguel Afonso Marques de Souza</h2>
 
-###
 
 <p align="left"></p>
 
-###
 
 <h2 align="left">Sistemas de Informação</h2>
 
-###
 
 <p align="left">Olá! Eu sou Miguel!</p>
 
-###
 
-<h2 align="left">🚀 Desenvolvedor em formação<br><br>🎯 Objetivo<br><br>Me tornar um desenvolvedor completo, com base sólida em lógica e capacidade de construir aplicações web modernas e bem estruturadas.</h2>
+<h1 align="left">🚀 Desenvolvedor em formação<br><br>🎯 Objetivo<br><br>Me tornar um desenvolvedor completo, com base sólida em lógica e capacidade de construir aplicações web modernas e bem estruturadas.</h1>
 
 ###
 
