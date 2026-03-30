@@ -8,7 +8,7 @@
 
 <h1 align="center">Miguel Afonso Marques de Souza</h1>
 
-###
+
 
 <p align="left">Olá! Me chamo Miguel e atualmente estou cursando Sistemas de Informação na Universidade Una Betim.<br><br>💻 Desenvolvedor em formação.<br><br>> Atualmente focado em:<br>- Lógica de Programação;<br>- Desenvolvimento ( HTML, CSS, JavaScript, Swift )<br>- Algoritmos e Técnicas de Programação (ATP)<br><br>Atualmente foco em me tornar um desenvolvedor completo, com base sólida em lógica e capacidade de construir aplicações web modernas e bem estruturadas.</p>
 
